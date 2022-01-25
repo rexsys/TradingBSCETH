@@ -25,7 +25,7 @@ Debian / Ubuntu
 6. sudo pip install websocket-client
 7. sudo pip install pandas
 8. sudo pip eth_accounts
-9. Clone git clone https://github.com/rexsys/BSCtradingbot.git 
+9. Clone git clone https://github.com/rexsys/BSCtradingbot.git
 10. cd BSCtradingbot
 11. python main.pyc
 12. For any help please add in to our https://t.me/BSCtradingbot group
@@ -37,7 +37,7 @@ Fedora Linux / Centos
 4. pip install telethon
 6. pip install websocket-client
 7. pip install pandas
-8. Clone git clone https://github.com/rexsys/BSCtradingbot.git 
+8. Clone git clone https://github.com/rexsys/BSCtradingbot.git
 9. For any help please add in to our https://t.me/BSCtradingbot group
 
 Arch Linux
@@ -47,7 +47,7 @@ Arch Linux
 4. pip install telethon
 6. pip install websocket-client
 7. pip install pandas
-8. Clone git clone https://github.com/rexsys/BSCtradingbot.git 
+8. Clone git clone https://github.com/rexsys/BSCtradingbot.git
 9. For any help please add in to our https://t.me/BSCtradingbot group
 
 Mac/iOS
@@ -101,5 +101,5 @@ Android
 7. install pandas
 10. install -U web3
 11. Clone the repo using git
-12. Clone git clone https://github.com/rexsys/BSCtradingbot.git 
+12. Clone git clone https://github.com/rexsys/BSCtradingbot.git
 13. For any help please add in to our https://t.me/BSCtradingbot group
