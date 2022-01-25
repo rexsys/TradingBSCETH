@@ -12,7 +12,7 @@ Windows
 
 1. Open CMD window and run pip install -r requirements.txt from the bot folder
 2. When completed run main.pyc
-3. For any help please add in to our https://telegram.org/BSCtradingbot group
+3. For any help please add in to our https://t.me/BSCtradingbot group
 
 Linux
 
