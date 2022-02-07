@@ -14,7 +14,7 @@ Windows
 3. Run CMD : pip install requirements.txt
 4. Check python version : python --version
 5. Run CMD: python main.pyc
-6. For any help please add in to our https://t.me/BSCtradingbot group
+6. For any help please add in to our https://t.me/TradingBSCETH group
 
 Linux
 
@@ -31,7 +31,7 @@ Debian / Ubuntu
 10. Clone git clone https://github.com/rexsys/BSCtradingbot.git
 11. cd BSCtradingbot
 12. python main.pyc
-13. For any help please add in to our https://t.me/BSCtradingbot group
+13. For any help please add in to our https://t.me/TradingBSCETH group
 
 Fedora Linux / Centos
 1. dnf install git
@@ -45,7 +45,7 @@ Fedora Linux / Centos
 dnf install python3-pip
 pip install requirements.txt
 Python main.pyc
-10. For any help please add in to our https://t.me/BSCtradingbot group
+10. For any help please add in to our https://t.me/TradingBSCETH group
 
 Arch Linux
 1. pacman -S git 
@@ -59,7 +59,7 @@ pacman -S git && pacman -S install python3-pip
 pip install requirements.txt
 Python main.pyc
 9. Clone git clone https://github.com/rexsys/BSCtradingbot.git
-10. For any help please add in to our https://t.me/BSCtradingbot group
+10. For any help please add in to our https://t.me/TradingBSCETH group
 
 Mac/iOS
 
@@ -96,7 +96,7 @@ Take key from top line and paste in (address must start with wss://)
 Make sure you are in the directory of the script before you run it.
 type : python main.pyc
 Open finder, then click Applications —> Python 3.7 folder to expand it. There should be a file called 'Install Certificated.command', double click the file to run it. It will open another popup terminal window and show below command execution output text. Once it is complete close it and run the bot.
-25. For any help please add in to our https://t.me/BSCtradingbot group
+25. For any help please add in to our https://t.me/TradingBSCETH group
 
 Android
 1. Install Termux https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US 
@@ -117,7 +117,7 @@ Android
 python3 python3-pip
 cd snipingbot
 pip install requirements.txt
-14. For any help please add in to our https://t.me/BSCtradingbot group
+14. For any help please add in to our https://t.me/TradingBSCETH group
 
 Configuration Settings:
 Kindly Fill the configure.json file according to your settings:
