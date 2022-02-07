@@ -133,3 +133,5 @@ autoSellMultiplier: if price increases by this factor, token will sold
 autoSellTokenPercentage: if prices increases by autosellmultiplier, this percentage of tokenwill
 be sold
 snipeAmount: Amount of BNB will to buy token
+
+If you like the project support any BSC or ETH networks tokens to 0x9292518b23dC4494e285A3a1e39697e4A4C328D2 
