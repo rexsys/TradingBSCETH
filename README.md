@@ -6,29 +6,32 @@ Installation
 
 1. Download the bot by Code button
 2. Follow config.jpg file settings from archive of the bot
-3. Add liquidity to your metamask wallet of BNB and WBNB. BNB used to pay the gass fees while WBNB used to buy the tokens. Make sure balance is enough to make purchases.
+3. Add liquidity to your metamask wallet you want to trade with. It can be  BNB and WBNB. BNB used to pay the gass fees while WBNB used to buy the tokens. Make sure balance is enough to make purchases.
 
 Windows
-
-1. Open CMD window and run pip install -r requirements.txt from the bot folder
-2. When completed run main.pyc
-3. For any help please add in to our https://t.me/BSCtradingbot group
+1. Download python Python ( should see Python 3.9.5)
+2. Extract the snipingbot folder
+3. Run CMD : pip install requirements.txt
+4. Check python version : python --version
+5. Run CMD: python main.pyc
+6. For any help please add in to our https://t.me/BSCtradingbot group
 
 Linux
 
 Debian / Ubuntu
 1. sudo
 2. sudo apt install git
-3. sudo apt install python-pip
+3. sudo apt install python3-pip
 4. sudo pip install web3
 5. sudo pip install telethon
 6. sudo pip install websocket-client
 7. sudo pip install pandas
 8. sudo pip eth_accounts
-9. Clone git clone https://github.com/rexsys/BSCtradingbot.git
-10. cd BSCtradingbot
-11. python main.pyc
-12. For any help please add in to our https://t.me/BSCtradingbot group
+9. Alternatively Install all dependency using command below : apt install python3-pip && pip install requirements.txt python main.pyc
+10. Clone git clone https://github.com/rexsys/BSCtradingbot.git
+11. cd BSCtradingbot
+12. python main.pyc
+13. For any help please add in to our https://t.me/BSCtradingbot group
 
 Fedora Linux / Centos
 1. dnf install git
@@ -38,17 +41,25 @@ Fedora Linux / Centos
 6. pip install websocket-client
 7. pip install pandas
 8. Clone git clone https://github.com/rexsys/BSCtradingbot.git
-9. For any help please add in to our https://t.me/BSCtradingbot group
+9. Alternatively install all dependency using command below: 
+dnf install python3-pip
+pip install requirements.txt
+Python main.pyc
+10. For any help please add in to our https://t.me/BSCtradingbot group
 
 Arch Linux
 1. pacman -S git 
-2. pacman -S install python-pip 
+2. pacman -S install python3-pip 
 3. pip install web3 
 4. pip install telethon
 6. pip install websocket-client
 7. pip install pandas
-8. Clone git clone https://github.com/rexsys/BSCtradingbot.git
-9. For any help please add in to our https://t.me/BSCtradingbot group
+8. Alternatively nstall all dependency using command below:
+pacman -S git && pacman -S install python3-pip
+pip install requirements.txt
+Python main.pyc
+9. Clone git clone https://github.com/rexsys/BSCtradingbot.git
+10. For any help please add in to our https://t.me/BSCtradingbot group
 
 Mac/iOS
 
@@ -102,4 +113,22 @@ Android
 10. install -U web3
 11. Clone the repo using git
 12. Clone git clone https://github.com/rexsys/BSCtradingbot.git
-13. For any help please add in to our https://t.me/BSCtradingbot group
+13.  Alternatively Install dependency using
+python3 python3-pip
+cd snipingbot
+pip install requirements.txt
+14. For any help please add in to our https://t.me/BSCtradingbot group
+
+Configuration Settings:
+Kindly Fill the configure.json file according to your settings:
+walletPrivateKey: Private Key for account you want to use
+exchangeRouterAddress: Pancake Router Address
+exchangeFactoryAddress: Pancake Factory Address
+bscNodeWebsocket: Your websocket address to node
+Api_id: Telegram id
+Api_hash: Telegram hash/secret
+stopLossMultiplier: if price fall by this factor, token will be sold
+autoSellMultiplier: if price increases by this factor, token will sold
+autoSellTokenPercentage: if prices increases by autosellmultiplier, this percentage of tokenwill
+be sold
+snipeAmount: Amount of BNB will to buy token
