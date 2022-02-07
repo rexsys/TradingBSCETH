@@ -1,5 +1,6 @@
-# BSCtradingbot
-BSCtradingbot monitors any trading sygnals telegram channels and hunts for the tokens that meen config. file. After purchase bot sells the bought token as per config settings at 2x, 5x, 10x...  
+# Trading BSC (binance) ETH (ethereum) blockchains bot
+
+TradingBSCETH bot monitors any trading sygnals telegram channels and hunts for the tokens that meen config. file. After purchase bot sells the bought token as per config settings at 2x, 5x, 10x...  
 The bot is crossplatform and works on windows, linux, ios, android. 
 
 Installation
