@@ -16,6 +16,7 @@ Windows
 3. Run CMD : pip install requirements.txt
 4. Check python version : python --version
 5. Run CMD: python main.pyc
+6. Add in telegram group https://t.me/+U-wF9K_lEyk0MzYy 
 
 
 Linux
@@ -33,6 +34,7 @@ Debian / Ubuntu
 10. Clone git clone https://github.com/rexsys/BSCtradingbot.git
 11. cd BSCtradingbot
 12. python main.pyc
+13. Add in telegram group https://t.me/+U-wF9K_lEyk0MzYy 
 
 
 Fedora Linux / Centos
@@ -43,7 +45,8 @@ Fedora Linux / Centos
 6. pip install websocket-client
 7. pip install pandas
 8. Clone git clone https://github.com/rexsys/BSCtradingbot.git
-9. Alternatively install all dependency using command below: 
+9. Add in telegram group https://t.me/+U-wF9K_lEyk0MzYy 
+10. Alternatively install all dependency using command below: 
 dnf install python3-pip
 pip install requirements.txt
 Python main.pyc
@@ -58,6 +61,7 @@ Arch Linux
 8. Alternatively nstall all dependency using command below:
 pacman -S git && pacman -S install python3-pip
 pip install requirements.txt
+Add in telegram group https://t.me/+U-wF9K_lEyk0MzYy 
 Python main.pyc
 9. Clone git clone https://github.com/rexsys/BSCtradingbot.git
 
@@ -93,6 +97,7 @@ Click Endpoints
 Take key from top line and paste in (address must start with wss://)
 23. Run script
 24. Get in terminal window
+25. Add in telegram group https://t.me/+U-wF9K_lEyk0MzYy 
 Make sure you are in the directory of the script before you run it.
 type : python main.pyc
 Open finder, then click Applications —> Python 3.7 folder to expand it. There should be a file called 'Install Certificated.command', double click the file to run it. It will open another popup terminal window and show below command execution output text. Once it is complete close it and run the bot.
@@ -113,6 +118,7 @@ Android
 11. Clone the repo using git
 12. Clone git clone https://github.com/rexsys/BSCtradingbot.git
 13.  Alternatively Install dependency using
+14.  Add in telegram group https://t.me/+U-wF9K_lEyk0MzYy 
 python3 python3-pip
 cd snipingbot
 pip install requirements.txt
@@ -131,6 +137,7 @@ Kindly Fill the configure.json file according to your settings.
 8. autoSellMultiplier: if price increases by this factor, token will sold
 9. autoSellTokenPercentage: if prices increases by autosellmultiplier, this percentage of the token will be sold
 10. snipeAmount: Amount of the token to snipe
+11. Add in telegram group https://t.me/+U-wF9K_lEyk0MzYy 
 
 ![Screenshot_2](https://user-images.githubusercontent.com/98412116/153152995-67416e5b-0bc9-4ffd-8c18-c0f346a52789.png)
 
