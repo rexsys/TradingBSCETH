@@ -8,6 +8,7 @@ Installation
 1. Download the bot by Code button
 2. Follow config.jpg file settings from archive of the bot
 3. Add liquidity to your metamask wallet you want to trade with. It can be  BNB and WBNB. BNB used to pay the gass fees while WBNB used to buy the tokens. Make sure balance is enough to make purchases.
+![config json](https://user-images.githubusercontent.com/98412116/153138600-efba4930-1c66-4b9e-8ec9-381cba2bf87a.png)
 
 Windows
 1. Download python Python ( should see Python 3.9.5)
