@@ -124,17 +124,16 @@ pip install requirements.txt
 ![imgpsh_fullsize_anim](https://user-images.githubusercontent.com/98412116/153143654-b43c3240-4805-4f2f-8637-51a771880396.png)
 
 Configuration Settings:
-Kindly Fill the configure.json file according to your settings:
-walletPrivateKey: Private Key for account you want to use
-exchangeRouterAddress: Pancake Router Address
-exchangeFactoryAddress: Pancake Factory Address
-bscNodeWebsocket: Your websocket address to node
-Api_id: Telegram id
-Api_hash: Telegram hash/secret
-stopLossMultiplier: if price fall by this factor, token will be sold
-autoSellMultiplier: if price increases by this factor, token will sold
-autoSellTokenPercentage: if prices increases by autosellmultiplier, this percentage of tokenwill
-be sold
-snipeAmount: Amount of BNB will to buy token
+Kindly Fill the configure.json file according to your settings.
+1. walletPrivateKey: Private Key for account you want to use
+2. exchangeRouterAddress: Pancake Router Address
+3. exchangeFactoryAddress: Pancake Factory Address
+4. bscNodeWebsocket: Your websocket address to node
+5. Api_id: Telegram id
+6. Api_hash: Telegram hash/secret
+7. stopLossMultiplier: if price fall by this factor, token will be sold
+8. autoSellMultiplier: if price increases by this factor, token will sold
+9. autoSellTokenPercentage: if prices increases by autosellmultiplier, this percentage of the token will be sold
+10. snipeAmount: Amount of BNB will to buy token
 
 If you like the project support any BSC or ETH networks tokens to 0x9292518b23dC4494e285A3a1e39697e4A4C328D2 
