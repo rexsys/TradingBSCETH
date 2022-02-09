@@ -121,6 +121,8 @@ cd snipingbot
 pip install requirements.txt
 14. For any help please add in to our https://t.me/TradingBSCETH group
 
+![imgpsh_fullsize_anim](https://user-images.githubusercontent.com/98412116/153143654-b43c3240-4805-4f2f-8637-51a771880396.png)
+
 Configuration Settings:
 Kindly Fill the configure.json file according to your settings:
 walletPrivateKey: Private Key for account you want to use
