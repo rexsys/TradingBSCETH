@@ -134,7 +134,7 @@ Kindly Fill the configure.json file according to your settings.
 7. stopLossMultiplier: if price fall by this factor, token will be sold
 8. autoSellMultiplier: if price increases by this factor, token will sold
 9. autoSellTokenPercentage: if prices increases by autosellmultiplier, this percentage of the token will be sold
-10. snipeAmount: Amount of BNB will to buy token
+10. snipeAmount: Amount of the token to snipe
 
 ![Screenshot_2](https://user-images.githubusercontent.com/98412116/153152995-67416e5b-0bc9-4ffd-8c18-c0f346a52789.png)
 
