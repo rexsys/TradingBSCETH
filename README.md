@@ -142,3 +142,5 @@ Kindly Fill the configure.json file according to your settings.
 ![Screenshot_2](https://user-images.githubusercontent.com/98412116/153152995-67416e5b-0bc9-4ffd-8c18-c0f346a52789.png)
 
 If you like the project support any BSC or ETH networks tokens to 0x9292518b23dC4494e285A3a1e39697e4A4C328D2 
+
+You should not trade unless you are prepared to sustain a total loss of the money you have invested plus any commission or other transaction charges.
