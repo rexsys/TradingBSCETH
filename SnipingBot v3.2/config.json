@@ -1,0 +1,62 @@
+{
+   "walletAddress":"Enter wallet address here",
+   "walletPrivateKey":"Enter Private Key Here",
+   "exchangeRouterAddress":"0x10ED43C718714eb63d5aA57B78B54704E256024E",
+   "exchangeFactoryAddress":"0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+   "bscNodeWebsocket":"Enter node wss here",
+   "transactionRevertTime":"10000",
+   "telegram":{
+      "proxy":{
+         "enableProxy":"False",
+	     "proxyType": "socks5",
+         "proxyAddress":"127.0.0.1",
+         "proxyPort":"8080",
+         "useProxyCredentials":"False",
+         "proxyUsername":"admin",
+         "proxyPassword":"password",
+         "useProxyRDNS":"False"
+      },
+      "api_id":"Enter telegram api id",
+      "api_hash":"enter telegram hash id",
+      "buyTokens":"True",
+      "sellTokens":"True",
+      "totalAllowedSnipes":"-1",
+      "Slippage": "10",
+      "gasSettings":{
+         "buy_gasAmount":"1500000",
+         "buy_gasPrice":"5",
+         "approve_gasPrice":"5",
+         "sell_gasAmount":"1500000",
+         "sell_gasPrice":"5"
+      },
+      "stopLossMultiplier":"0.9",
+      "autoSellMultiplier":"1.1",
+      "autoSellTokenPercentage":"90",
+      "honeypot_allowCheck": "True",
+      "honeypot_maxBuyFee": "25",
+      "honeypot_maxSellFee": "25",
+      "liquidityPair":[
+         {
+            "symbol":"BNB",
+            "liquidityPairAddress":"0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "snipeAmount":"0.1",
+            "minLiquidityAmount":"0",
+            "maxLiquidityAmount":"1000000000"
+         }
+      ],
+     "telegramChannels":[
+      {
+         "channelName":"CMC_fastest_alerts",
+         "requiredText":"(first pump)"
+      },
+      {
+      "channelName":"CG_fastest_alerts",
+      "requiredText":"(first pump)"
+      },
+      {
+         "channelName":"bscsafesniper",
+         "requiredText":"STILL EXIST"
+         }
+     ]
+   }
+}
