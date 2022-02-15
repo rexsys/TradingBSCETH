@@ -1,6 +1,6 @@
 # Sniping blockchains bot
 
-Sniping bot monitors any trading sygnals telegram channels and hunts for the tokens that meet config file with Binance, Ethereum, Avalanche, Polygon. After purchase bot sells the bought token as per config settings at 2x, 5x, 10x...  
+Sniping bot monitors any trading signals telegram channels and hunts for the tokens that meet config file with Binance, Ethereum, Avalanche, Polygon. After purchase bot sells the bought token as per config settings at 2x, 5x, 10x...  
 The bot is crossplatform and works on windows, linux, ios, android. 
 
 Installation
